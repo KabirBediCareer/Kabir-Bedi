@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 const interests = [
   {
     title: "DJing",
-    description: "As former President of KCL DJ Society and founder of my own DJ business, I'm passionate about electronic music and creating memorable experiences through sound. I've organized events for over 800 members, managed professional gigs across London, and performed confidently in front of over 1,000 people—building the same confidence and integrity I bring to the working world.",
+    description: "As former President of KCL DJ Society and founder of a London-based DJ business, I've performed for crowds of 1,000+, run large-scale events, and built the confidence and professionalism I carry into every role.",
     icon: Music
   },
   {
