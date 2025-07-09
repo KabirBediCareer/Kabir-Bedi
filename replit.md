@@ -24,6 +24,7 @@ Preferred communication style: Simple, everyday language.
 - ✅ **DEPLOYMENT PREVIEW SCRIPT FIXED** (July 2025) - Resolved "Missing script 'preview' in package.json" error by adding preview script to dist/package.json and using existing deployment infrastructure
 - ✅ **DEPLOYMENT CRASH LOOP FIXED** (July 2025) - Fixed deployment failures by updating deploy-simple.js to include both 'start' and 'preview' scripts in dist/package.json, ensuring compatibility with Replit's deployment system
 - ✅ **GITHUB PAGES DEPLOYMENT FIXED** (July 2025) - Fixed 404 error by correcting GitHub Actions workflow to upload from ./dist instead of ./dist/public, and ensured proper React build files are in dist/ directory with matching assets
+- ✅ **DEPLOYMENT PREVIEW SCRIPT ADDED** (July 2025) - Fixed "Missing script: preview" error by ensuring dist/package.json includes both start and preview scripts, resolved application startup issues on port 5000, and verified deployment structure is complete
 
 ## System Architecture
 
