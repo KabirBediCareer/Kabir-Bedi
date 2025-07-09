@@ -8,8 +8,8 @@ const education = [
     degree: "Bachelor of Science in Physics",
     institution: "King's College London",
     period: "2021 - 2025",
-    description: "Pursuing degree with additional level 5 Introduction to Artificial Intelligence & level 6 Artificial Intelligence Decision Making and Planning modules. Dissertation: 'Exploring Quantum Computing and Quantum Machine Learning for Financial Fraud Detection: A Comparative Study of Quantum Support Vector Machines and Classical Models'",
-    skills: ["Artificial Intelligence", "Quantum Computing", "Physics", "Machine Learning", "Financial Modeling"]
+    description: "Completed degree with additional level 5 Introduction to Artificial Intelligence & level 6 Artificial Intelligence Decision Making and Planning modules. Dissertation: 'Exploring Quantum Computing and Quantum Machine Learning for Financial Fraud Detection: A Comparative Study of Quantum Support Vector Machines and Classical Models' - developed a Machine Learning Algorithm on a Quantum Computer to detect fraudulent transactions, bridging cutting-edge physics with practical application.",
+    skills: ["Artificial Intelligence", "Quantum Computing", "Physics", "Machine Learning", "Financial Modeling", "First Principles Thinking"]
   }
 ];
 
@@ -26,7 +26,7 @@ export default function Academic() {
         >
           <h2 className="text-4xl font-bold mb-4">Academic Background</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            My educational journey has shaped my approach to design and problem-solving
+            My educational journey has shaped my approach to physics, technology, and creative problem-solving
           </p>
         </motion.div>
         

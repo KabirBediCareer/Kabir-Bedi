@@ -21,10 +21,16 @@ export default function Hero() {
             Kabir Bedi
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-            Physics and AI Graduate, Software Development Project Lead
+            Physics Graduate, Software Development Project Lead
           </p>
-          <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-12">
-            I'm Kabir, a Physics student at King's College London with a strong academic background in artificial intelligence, quantum computing, and technology-driven problem solving. As former President of KCL DJ Society and founder of my own DJ business, I bring leadership and creativity to everything I do. My dissertation focuses on quantum machine learning for financial fraud detection, bridging cutting-edge physics with practical applications.
+          <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed mb-12">
+            I'm Kabir, a Physics graduate from King's College London. With a strong academic background in artificial intelligence, quantum computing, and technology-driven problem-solving, I bring leadership and creativity to everything I do. As former President of KCL DJ Society and founder of my own DJ business, I've honed my leadership and creative skills.
+          </p>
+          <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed mb-12">
+            Over the past four years, I've diversified my skillset. I've worked as a Python developer and project manager, creating entirely new systems for institutions. I've also gained a rigorous academic experience through my dissertation, which focusses on Quantum Mechanics and Financial Fraud. In my dissertation, I developed a Machine Learning Algorithm on a Quantum Computer to detect fraudulent transactions, aiming to bridge cutting-edge physics with practical application.
+          </p>
+          <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed mb-12">
+            I'm passionate about how physics and first principles thinking, combined with a creative approach, can be applied to all fields. I place a particular importance on communicating what I learn clearly to all types of audiences and building a well rounded character that will carry me to a fruitful career.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 sm:gap-6">
             <Button
