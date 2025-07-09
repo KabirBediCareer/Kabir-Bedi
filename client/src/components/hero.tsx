@@ -24,13 +24,7 @@ export default function Hero() {
             Physics Graduate, Software Development Project Lead
           </p>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed mb-12">
-            I'm Kabir, a Physics graduate from King's College London. With a strong academic background in artificial intelligence, quantum computing, and technology-driven problem-solving, I bring leadership and creativity to everything I do. As former President of KCL DJ Society and founder of my own DJ business, I've honed my leadership and creative skills.
-          </p>
-          <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed mb-12">
-            Over the past four years, I've diversified my skillset. I've worked as a Python developer and project manager, creating entirely new systems for institutions. I've also gained a rigorous academic experience through my dissertation, which focusses on Quantum Mechanics and Financial Fraud. In my dissertation, I developed a Machine Learning Algorithm on a Quantum Computer to detect fraudulent transactions, aiming to bridge cutting-edge physics with practical application.
-          </p>
-          <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed mb-12">
-            I'm passionate about how physics and first principles thinking, combined with a creative approach, can be applied to all fields. I place a particular importance on communicating what I learn clearly to all types of audiences and building a well rounded character that will carry me to a fruitful career.
+            I'm Kabir—a Physics graduate from King's College London specializing in AI, quantum computing, and tech-driven problem solving. I pair rigorous analytical skill with creative leadership, sharpened as President of the KCL DJ Society and founder of a thriving DJ business. Over the past four years I've engineered full-stack systems as a Python developer and project manager, and my dissertation merged quantum mechanics with finance by training a quantum-powered machine-learning model to detect fraud. I tackle challenges from first principles, communicate complex ideas in plain language, and keep building a well-rounded perspective that fuels innovative, real-world solutions.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 sm:gap-6">
             <Button
