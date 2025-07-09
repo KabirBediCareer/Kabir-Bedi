@@ -26,6 +26,12 @@ jobs:
     - name: Build project
       run: npm run build
       
+    - name: Fix deployment structure
+      run: |
+        if [ -d "dist/public" ]; then
+          cp -r dist/public/* dist/
+        fi
+        
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/main'
