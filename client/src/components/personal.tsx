@@ -15,7 +15,7 @@ const interests = [
   },
   {
     title: "Gym & Wellness",
-    description: "Maintaining physical fitness is important to me. Regular gym sessions help me stay focused and energized for my academic and professional pursuits.",
+    description: "I attribute my focus and discipline to the maintenance of my physical health. It's not only an activity I see necessary but one I take enjoyment and relaxation in.",
     icon: Sprout
   },
   {
