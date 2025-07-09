@@ -35,6 +35,10 @@ jobs:
       run: |
         if [ -d "dist/public" ]; then
           cp -r dist/public/* dist/
+          ls -la dist/
+        else
+          echo "No dist/public directory found"
+          ls -la dist/
         fi
         
     - name: Setup Pages
@@ -43,7 +47,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
       with:
-        path: './dist'
+        path: './dist/public'
         
     - name: Deploy to GitHub Pages
       id: deployment
