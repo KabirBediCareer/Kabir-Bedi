@@ -32,7 +32,7 @@ const experiences = [
     title: "KCL DJ Society President",
     company: "King's College London",
     period: "09/23 - 09/24",
-    description: "Led a vibrant community of over 200 members, promoting artistic expression and social connection through electronic music. Organized high-quality events with meticulous planning and successfully raised over £4,000 for multiple key charities.",
+    description: "Led a vibrant community of over 800 members, promoting artistic expression and social connection through electronic music. Organized high-quality events with meticulous planning and successfully raised over £4,000 for multiple key charities.",
     skills: ["Leadership", "Event Management", "Fundraising", "Community Building"],
     icon: Palette
   },
