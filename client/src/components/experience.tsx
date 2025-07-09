@@ -16,7 +16,7 @@ const experiences = [
     title: "DJ & AV Business Owner",
     company: "Self-Employed",
     period: "01/24 - Present",
-    description: "Founded and managed a team of DJs across London, coordinating events including corporate functions, formal events for large companies, and live classical performances. Provided professional sound services for charity events and secured contracts with major London universities.",
+    description: "Founded and managed a team of DJs across London, coordinating events including corporate functions, formal events for large companies, and live classical performances. Performed confidently in front of over 1,000 people, provided professional sound services for charity events, and secured contracts with major London universities. This experience developed the confidence and integrity I bring to professional challenges.",
     skills: ["Business Management", "Event Coordination", "Team Leadership", "Financial Management"],
     icon: Briefcase
   },
@@ -32,7 +32,7 @@ const experiences = [
     title: "KCL DJ Society President",
     company: "King's College London",
     period: "09/23 - 09/24",
-    description: "Led a vibrant community of over 800 members, promoting artistic expression and social connection through electronic music. Organized high-quality events with meticulous planning and successfully raised over £4,000 for multiple key charities.",
+    description: "Led a vibrant community of over 800 members, promoting artistic expression and social connection through electronic music. Organized high-quality events with meticulous planning, performed confidently in front of over 1,000 people, and successfully raised over £4,000 for multiple key charities. This experience built the confidence and integrity I bring to professional environments.",
     skills: ["Leadership", "Event Management", "Fundraising", "Community Building"],
     icon: Palette
   },
